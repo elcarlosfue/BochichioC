@@ -4,7 +4,7 @@
 "dataUrl": "Bochichio.data.unityweb",
 "wasmCodeUrl": "Bochichio.wasm.code.unityweb",
 "wasmFrameworkUrl": "Bochichio.wasm.framework.unityweb",
-"TOTAL_MEMORY": 480000000,
+"TOTAL_MEMORY": 580000000,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Light",
